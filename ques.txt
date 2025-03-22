@@ -1,0 +1,7 @@
+You can now ask questions like:
+
+    "What electronics products do you have?"
+
+    "Show me furniture under $300"
+
+    "What's the status of my order?"
